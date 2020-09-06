@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.igread.ml</id>
     <title>Gridea</title>
-    <updated>2020-09-06T13:10:04.862Z</updated>
+    <updated>2020-09-06T13:22:01.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.igread.ml"/>
     <link rel="self" href="https://www.igread.ml/atom.xml"/>
@@ -33,7 +33,7 @@ AX200 PCI\VEN_8086&amp;DEV_2723&amp;SUBSYS_00848086
 <li>运行CA_uninstall.bat，清除签名证书。</li>
 </ol>
 <h4 id="下载地址">下载地址:</h4>
-<p><a href="https://wws.lanzous.com/iKdTPg7gqte">https://wws.lanzous.com/iKdTPg7gqte</a></p>
+<p><a href ="https://wws.lanzous.com/iKdTPg7gqte" target="_blank">https://wws.lanzous.com/iKdTPg7gqte</a></p>
 ]]></content>
     </entry>
 </feed>
