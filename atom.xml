@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://u-on.github.io</id>
+    <title>IG</title>
+    <updated>2021-03-10T03:18:40.241Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://u-on.github.io"/>
+    <link rel="self" href="https://u-on.github.io/atom.xml"/>
+    <logo>https://u-on.github.io/images/avatar.png</logo>
+    <icon>https://u-on.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, IG</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux内核升级]]></title>
+        <id>https://u-on.github.io/post/0OMS0RiqB/</id>
+        <link href="https://u-on.github.io/post/0OMS0RiqB/">
+        </link>
+        <updated>2021-02-08T05:08:49.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="内核下载地址">内核下载地址</h2>
+<h3 id="ubuntu">Ubuntu</h3>
+<blockquote>
+<p><a href="https://kernel.ubuntu.com/~kernel-ppa/mainline/">https://kernel.ubuntu.com/~kernel-ppa/mainline/</a></p>
+</blockquote>
+<h3 id="centos">Centos</h3>
+<blockquote>
+<p><a href="https://elrepo.org/linux/kernel/">https://elrepo.org/linux/kernel/</a></p>
+</blockquote>
+<h2 id="升级脚本">升级脚本</h2>
+<pre><code class="language-bash"># 默认 ubuntu v5.4.7             centos 5.4.95
+bash &lt;(curl -sL https://cdn.jsdelivr.net/gh/igread/script@main/shell/kernel_update.sh)
+# 可选参数 -v 版本号
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTP服务器]]></title>
+        <id>https://u-on.github.io/post/qjd5dNxDN/</id>
+        <link href="https://u-on.github.io/post/qjd5dNxDN/">
+        </link>
+        <updated>2021-01-14T07:07:03.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="阿里云">阿里云</h2>
+<pre><code class="language-ini">ntp.aliyun.com
+ntp1.aliyun.com
+ntp2.aliyun.com
+ntp3.aliyun.com
+ntp4.aliyun.com
+ntp5.aliyun.com
+ntp6.aliyun.com
+ntp7.aliyun.com
+</code></pre>
+<h2 id="腾讯">腾讯</h2>
+<pre><code class="language-ini">time1.cloud.tencent.com 
+time2.cloud.tencent.com 
+time3.cloud.tencent.com
+time4.cloud.tencent.com
+time5.cloud.tencent.com
+</code></pre>
+<h2 id="微软">微软</h2>
+<pre><code class="language-ini">time.windows.com
+</code></pre>
+<h2 id="苹果">苹果</h2>
+<pre><code class="language-ini">time.apple.com
+time.asia.apple.com
+time.euro.apple.com
+# 或
+server time1.apple.com
+server time2.apple.com
+server time3.apple.com
+server time4.apple.com
+server time5.apple.com
+server time6.apple.com
+server time7.apple.com
+</code></pre>
+<h2 id="cloudflare">Cloudflare</h2>
+<pre><code class="language-ini"># 支持IPv6
+time.cloudflare.com
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读3.0 开源阅读软件]]></title>
+        <id>https://u-on.github.io/post/kai-yuan-yue-du-ruan-jian/</id>
+        <link href="https://u-on.github.io/post/kai-yuan-yue-du-ruan-jian/">
+        </link>
+        <updated>2020-09-08T07:45:32.000Z</updated>
+        <content type="html"><![CDATA[<p>阅读3.0 <a href ="https://github.com/gedoor/legado" target="_blank">https://github.com/gedoor/legado</a></p>
+<h2 id="阅读30">阅读3.0</h2>
+<ul>
+<li>
+<p>书源规则<br>
+<a href ="https://celeter.github.io" target="_blank">https://celeter.github.io</a><br>
+<a href ="http://yck.mumuceo.com/" target="_blank">http://yck.mumuceo.com/</a></p>
+</li>
+<li>
+<p>更新日志 <a href ="https://github.com/gedoor/legado/blob/master/app/src/main/assets/updateLog.md" target="_blank">updateLog.md</a></p>
+</li>
+</ul>
+<h4 id="下载地址">下载地址:</h4>
+<p><a href ="https://github.com/gedoor/legado/releases" target="_blank">https://github.com/gedoor/legado/releases</a><br>
+<a href ="https://g.ioiox.com/https://github.com/gedoor/legado/releases/download/3.20.090913/legado_app_3.20.090913.apk" target="_blank">镜像加速地址</a></p>
+]]></content>
+    </entry>
+</feed>
