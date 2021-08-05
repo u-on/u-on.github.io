@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://igread.ml</id>
     <title>IG</title>
-    <updated>2021-08-05T02:51:08.045Z</updated>
+    <updated>2021-08-05T05:44:03.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <link rel="alternate" href="https://igread.ml"/>
+    <link rel="self" href="https://igread.ml/atom.xml"/>
+    <logo>https://igread.ml/images/avatar.png</logo>
+    <icon>https://igread.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, IG</rights>
     <entry>
         <title type="html"><![CDATA[ventoy 新一代多系统启动U盘解决方案]]></title>
-        <id>http://localhost:4000/post/0qHpPj5z9/</id>
-        <link href="http://localhost:4000/post/0qHpPj5z9/">
+        <id>https://igread.ml/post/0qHpPj5z9/</id>
+        <link href="https://igread.ml/post/0qHpPj5z9/">
         </link>
         <updated>2021-08-05T00:48:38.000Z</updated>
         <content type="html"><![CDATA[<h2 id="主页">主页</h2>
@@ -60,8 +60,8 @@ Ventoy 支持大部分常见类型的操作系统 （Windows/WinPE/Linux/Unix/VM
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux内核升级]]></title>
-        <id>http://localhost:4000/post/0OMS0RiqB/</id>
-        <link href="http://localhost:4000/post/0OMS0RiqB/">
+        <id>https://igread.ml/post/0OMS0RiqB/</id>
+        <link href="https://igread.ml/post/0OMS0RiqB/">
         </link>
         <updated>2021-02-08T05:08:49.000Z</updated>
         <content type="html"><![CDATA[<h2 id="内核下载地址">内核下载地址</h2>
@@ -82,8 +82,8 @@ bash &lt;(curl -sL https://cdn.jsdelivr.net/gh/igread/script@main/shell/kernel_u
     </entry>
     <entry>
         <title type="html"><![CDATA[NTP服务器]]></title>
-        <id>http://localhost:4000/post/qjd5dNxDN/</id>
-        <link href="http://localhost:4000/post/qjd5dNxDN/">
+        <id>https://igread.ml/post/qjd5dNxDN/</id>
+        <link href="https://igread.ml/post/qjd5dNxDN/">
         </link>
         <updated>2021-01-14T07:07:03.000Z</updated>
         <content type="html"><![CDATA[<h2 id="阿里云">阿里云</h2>
@@ -127,8 +127,8 @@ time.cloudflare.com
     </entry>
     <entry>
         <title type="html"><![CDATA[阅读3.0 开源阅读软件]]></title>
-        <id>http://localhost:4000/post/kai-yuan-yue-du-ruan-jian/</id>
-        <link href="http://localhost:4000/post/kai-yuan-yue-du-ruan-jian/">
+        <id>https://igread.ml/post/kai-yuan-yue-du-ruan-jian/</id>
+        <link href="https://igread.ml/post/kai-yuan-yue-du-ruan-jian/">
         </link>
         <updated>2020-09-08T07:45:32.000Z</updated>
         <content type="html"><![CDATA[<p>阅读3.0 <a href ="https://github.com/gedoor/legado" target="_blank">https://github.com/gedoor/legado</a></p>
