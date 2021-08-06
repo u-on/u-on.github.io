@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igread.ml</id>
     <title>IG</title>
-    <updated>2021-08-05T07:26:12.908Z</updated>
+    <updated>2021-08-06T01:30:52.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igread.ml"/>
     <link rel="self" href="https://igread.ml/atom.xml"/>
@@ -615,7 +615,7 @@
         <content type="html"><![CDATA[<h2 id="主页">主页</h2>
 <p><a href="https://ventoy.net/">https://ventoy.net/</a></p>
 <h2 id="ventoy-简介">Ventoy 简介</h2>
-<img src="https://cdn.jsdelivr.net/gh/u-on/src@page/images/2021/08/20210805085001.png" alt="img"  />
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/u-on/src@page/images/2021/08/20210806092929.png" alt="" loading="lazy"></figure>
 <p>简单来说，Ventoy是一个制作可启动U盘的开源工具。<br>
 有了Ventoy你就无需反复地格式化U盘，你只需要把 ISO/WIM/IMG/VHD(x)/EFI 等类型的文件拷贝到U盘里面就可以启动了，无需其他操作。<br>
 你可以一次性拷贝很多个不同类型的镜像文件，Ventoy 会在启动时显示一个菜单来供你进行选择 (参见 <a href="https://ventoy.net/cn/screenshot.html">截图</a>)。<br>
